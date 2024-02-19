@@ -1,4 +1,4 @@
-### Hi there 👋
+### 컴퓨터공학과 전공 김재한입니다.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlawogks22)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **rlawogks22/rlawogks22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
